@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "types": ["vite/client"],
+    "lib":["es2017"],
+    "moduleResolution": "Node",
+    "experimentalDecorators": true,
+  }
+}
