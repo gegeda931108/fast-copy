@@ -1,2 +1,2 @@
-# fast--sentence-copy
+# fast-copy
 chrome extensions 
